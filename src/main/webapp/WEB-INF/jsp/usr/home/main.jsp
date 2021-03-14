@@ -5,11 +5,7 @@
 
 <section class="section-1">
 	<div class="bg-white shadow-md rounded container mx-auto p-8 mt-8">
-		Lorem
-		ipsum dolor sit amet, consectetur adipisicing elit. Iure asperiores
-		quisquam quod repellendus harum quo perspiciatis unde aliquam aliquid
-		illo sed similique hic ab temporibus ipsa optio quam. Delectus
-		laboriosam.
+		<a href="../question/firstQuestion">시작하기</a>
 	</div>
 </section>
 

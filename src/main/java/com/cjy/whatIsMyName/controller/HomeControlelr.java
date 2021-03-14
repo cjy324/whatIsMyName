@@ -10,5 +10,4 @@ public class HomeControlelr {
 	public String showMain() {
 		return "/usr/home/main";
 	}
-	
 }
